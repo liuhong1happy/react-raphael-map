@@ -18,7 +18,7 @@ ReactDOM.render(<Map data={china} width={480} height={560} />,document.getElemen
 
 ## Run Example
 
-    git clone https://github.com/liuhong1happy/react-raphael
+    git clone https://github.com/liuhong1happy/react-raphael-map
     npm install
     npm run example
 
