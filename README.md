@@ -11,7 +11,7 @@ so easy,draw map with react-raphael!
 ``` js
 var React = require('react');
 var ReactDOM = require('react-dom');
-var {china,Map} = require('../lib/index');
+var {china,Map} = require('react-raphael-map');
 
 ReactDOM.render(<Map data={china} width={480} height={560} />,document.getElementById("react-container"));
 ```
