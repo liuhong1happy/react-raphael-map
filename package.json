@@ -1,6 +1,6 @@
 {
   "name": "react-raphael-map",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "description": "so easy,draw map with react-raphael!",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "raphael": "^2.2.6",
     "react": "^0.14.8",
     "react-dom": "^0.14.8",
-    "react-raphael": "^0.4.0"
+    "react-raphael": "^0.6.0"
   },
   "devDependencies": {
     "babel": "^6.0.0",
